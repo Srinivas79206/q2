@@ -1,5 +1,4 @@
-hii
-hiii
-hiiii
-hiiiii
-hiiiiii
+
+## Contributors
+
+Srinivas K.B. & Akshata
